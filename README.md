@@ -1,5 +1,6 @@
 # Formacao_Power_BI_Alura
-Este repositório reúne os dashboards que desenvolvi durante a formação de Power BI da Alura. Foram quatro cursos, com cases reais que me permitiram praticar desde ETL até visualização interativa.
+Este repositório reúne os dashboards que desenvolvi durante a formação de Power BI da Alura, composta por quatro cursos práticos que abordam desde o ETL com Power Query até a criação de dashboards interativos.
+Cada projeto teve como base um caso prático, com cenários empresariais simulados para aplicar os conhecimentos adquiridos ao longo da formação.
 
 ### 1° - Power BI Desktop: construindo meu primeiro dashboard
 Neste primeiro curso, são apresentados os conceitos essenciais de Business Intelligence e o uso prático do Power BI. Aprendemos como instalar a ferramenta, importar e tratar dados com o Power Query, criar colunas e medidas, montar gráficos e visuais, estruturar um dashboard interativo e publicá-lo na web. A prática foi desenvolvida a partir do cenário de um pet shop fictício chamado Gatito. Nossa missão era ajudar a proprietária a reunir e analisar todos os dados disponíveis para avaliar a viabilidade de abrir novas filiais em outras regiões.
@@ -21,7 +22,8 @@ Neste quarto curso, aprendemos a criar visuais eficazes no Power BI, escolhendo 
 
 * Arquivo .pbix - Opuline
 
-## Como usar  
-**1.** Clone este repositório.  
-**2.** Abra os arquivos no Power BI Desktop.  
-**3.** Explore as consultas e o kit de dados em “Transformar dados”.
+## Como abrir os arquivos
+
+**1.** Faça o download ou clone este repositório.  
+**2.** Abra os arquivos `.pbix` no Power BI Desktop.  
+**3.** Explore os dashboards, as transformações no Power Query e os modelos de dados.
